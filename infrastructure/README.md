@@ -7,6 +7,8 @@ To produce a CDK json file:
 - Then run `cdk synth MyStackName` or `cdk synth \*` if there are more than one stacks in the appication.
 - A `cdk.out` folder will be generated and a `MyStack.template.json` file (or more if we have more stacks) should be generated in there.
 
+Git push check
+auto save test 
 
 To scan with Snyk IaC:
 
